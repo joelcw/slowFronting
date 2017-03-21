@@ -67,7 +67,7 @@ coding_query:
 	txt: ELSE
 	}*/
 
-/*
+
 // numwords of NP-OB*
 4: {
 	\1: (IP-MAT* idoms NP-OB*) AND (NP-OB* domswords 1)
@@ -177,4 +177,4 @@ coding_query:
 	\50: (IP-MAT* idoms NP-SBJ*) AND (NP-SBJ* domswords> 49)
 	z: ELSE
 }
-*/
+
