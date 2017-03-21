@@ -8,11 +8,11 @@ icepahc="/Users/yoelw/icecorpus/finished/*.psd"
 
 ycoe="/Users/yoelw/CurrentLx/OldNorse/historicalsyntaxcourse/YCOE/*.psd"
 
-ppcme2="/Users/yoelw/CurrentLx/OldNorse/ppcmeWork/*.ref"
+ppceme="/Users/yoelw/CurrentLx/OldNorse/ppche4/PPCEME-RELEASE-3/corpus/psd/*/*.psd"
 
-ppceme="/Users/yoelw/CurrentLx/OldNorse/historicalsyntaxcourse/PENN-CORPORA/PPCEME-RELEASE-1/corpus/psd/*/*.psd"
+ppcme2="/Users/yoelw/CurrentLx/OldNorse/ppche4/PPCME2-RELEASE-4/corpus/psd/*.psd"
 
-ppcmbe="/Users/yoelw/CurrentLx/OldNorse/historicalsyntaxcourse/PENN-CORPORA/PPCMBE/*.ref"
+ppcmbe="/Users/yoelw/CurrentLx/OldNorse/ppche4/PPCMBE2-RELEASE-1/corpus/psd/*.psd"
 
 tychobrahe="/Users/yoelw/CurrentLx/OldNorse/tychobrahe/*psd.txt"
 
